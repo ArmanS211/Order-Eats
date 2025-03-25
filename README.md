@@ -9,7 +9,7 @@ Includes Interactable Side Options Menu.
 
 ![OrderEats2](https://github.com/user-attachments/assets/4d11b2e6-b7ce-48f4-bde7-9cf1ec0d0f0b)
 
-Filters in Highest Rated Menu Items are also Interactable.
+Filters in Highest Rated Menu Items Section are also Interactable.
 
 ![OrderEats 3](https://github.com/user-attachments/assets/9939343f-936e-4893-a1db-9d34f10b29ee)
 
