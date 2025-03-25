@@ -1,20 +1,19 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 import Navbar from './components/Navbar'
 import Image from './components/Image'
 import FoodCards from './components/FoodCards'
-
+import Menu from './components/Menu'
+import Categories from './components/Categories'
 function App() {
-  const [count, setCount] = useState(0)
+  
 
   return (
     <>
-    
     <Navbar/>
     <Image/>
     <FoodCards/>
+    <Menu/>
+    <Categories/>
     </>
   )
 }
