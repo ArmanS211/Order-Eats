@@ -2,6 +2,7 @@
 Responsive Frontend for a Food Delivery website, similar to Uber Eats. 
 Created using React, JSX and TailwindCSS.
 
+Accessible at: armans211.github.io/Order-Eats/
 
 ![OrderEats 1](https://github.com/user-attachments/assets/2513f6e2-1d4e-41c9-9b45-ac0a9447eef4)
 
