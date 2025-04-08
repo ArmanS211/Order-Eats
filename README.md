@@ -14,4 +14,4 @@ Filters in Highest Rated Menu Items Section are interactive.
 
 ![OrderEats 3](https://github.com/user-attachments/assets/9939343f-936e-4893-a1db-9d34f10b29ee)
 
-Special Thanks to Clint Briley for food-app-react-tailwind project.
+Special Thanks to Clint Briley for his Food App Project Tutorial.
